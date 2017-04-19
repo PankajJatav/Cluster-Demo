@@ -1,0 +1,19 @@
+{
+  "name": "cluster_learn",
+  "version": "0.0.1",
+  "description": "learning cluster",
+  "main": "app.js",
+  "scripts": {
+    "server" : "node app",
+    "cluster": "node cluster",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cluster nodejs"
+  ],
+  "author": "Pankaj Kumar Jatav",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
