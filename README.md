@@ -19,3 +19,5 @@ npm start cluster
 npm install -g loadtest
 loadtest -c 1000 --rps 200 http://localhost:3000/
 ```
+
+![Alt text](/Selection_001.png?raw=true "Output")
